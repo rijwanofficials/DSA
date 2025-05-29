@@ -19,6 +19,7 @@
 //     while (temp--)
 //     {
 //         pwr *= 10;
+// rijwan
 //     }
 //     pwr = pwr / 10;
 //     for (int i = 0; i < l; i++)
